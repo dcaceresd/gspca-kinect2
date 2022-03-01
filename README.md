@@ -2,6 +2,11 @@
 
 Linux kernel driver for the "Kinect for Windows 2" sensor.
 
+## Run ##
+Once installed make sure v4l2loopback is installed and run the kinect_conversion script.
+
+In case of failure, you can reset the drivers by running the script.
+
 ## Requirements ##
 * Linux 3.x+
 
